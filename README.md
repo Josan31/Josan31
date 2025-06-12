@@ -1,7 +1,5 @@
 #      Hi!, I'm José, a Software Developer: 
-| A Student From Colombia |
-| Learning Software Development With Python |
-| Exploring The Tech World With Curiosity And Creativity. |
+I'm A Student From Colombia Learning Software Development With Python And Exploring The Tech World With Curiosity And Creativity.
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
