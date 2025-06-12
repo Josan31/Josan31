@@ -1,4 +1,4 @@
-#      Hi There!, I'm José, a Software Developer 👋🏼: 
+#      Hi!, I'm José, a Software Developer 💫: 
 I'm José Sánchez, a 15-year-old student from Colombia learning software development with Python and exploring the tech world with curiosity and creativity.
 
 # 💻 Tech Stack:
