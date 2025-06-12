@@ -1,5 +1,7 @@
 #      Hi!, I'm José, a Software Developer: 
-I'm José Sánchez, a 15-year-old student from Colombia learning software development with Python and exploring the tech world with curiosity and creativity.
+○ A Student From Colombia 
+○ Learning Software Development With Python
+○ Exploring The Tech World With Curiosity And Creativity.
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
