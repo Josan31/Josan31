@@ -13,6 +13,35 @@ I'm A Student From Colombia Learning Software Development With Python And Explor
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<!-- Tech Stack -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech%20Stack-%F0%9F%92%BB-blue?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+---
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Stats-%F0%9F%93%9A-orange?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Josan31&show_icons=true&theme=orange" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Josan31&theme=orange" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josan31&layout=compact&theme=orange" />
+</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josan31/josan31/output/github-snake-dark.svg" />
