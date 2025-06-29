@@ -1,15 +1,16 @@
-<!-- Presentación animada -->
+<!-- 🎉 Presentación animada -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&speed=50&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Jos%C3%A9;A+Software+Developer+in+Training;Learning+Python+%26+GitHub+every+day!" />
 </p>
 
 ---
 
-<!-- Tech Stack -->
+<!-- ⚙️ Título animado: Tech Stack -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F28C28&center=true&vCenter=true&width=300&lines=⚙️+Tech+Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&speed=50&color=F28C28&center=true&vCenter=true&width=600&lines=⚙️+Tech+Stack" />
 </p>
 
+<!-- 🔧 Badges de herramientas -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -18,11 +19,12 @@
 
 ---
 
-<!-- GitHub Stats -->
+<!-- 📊 Título animado: GitHub Stats -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=300&lines=📊+GitHub+Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&speed=50&color=FF5733&center=true&vCenter=true&width=600&lines=📊+GitHub+Stats" />
 </p>
 
+<!-- 🧠 Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Josan31&show_icons=true&theme=transparent" />
 </p>
@@ -34,6 +36,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josan31&layout=compact&theme=transparent" />
 </p>
+
+---
+
+<!--snake-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josan31/josan31/output/github-snake-dark.svg" />
