@@ -19,7 +19,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Stats-%F0%9F%93%9A-orange?style=for-the-badge">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=300&lines=%F0%9F%93%8A+GitHub+Stats" />
 </p>
 
 <p align="center">
