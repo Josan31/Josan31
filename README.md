@@ -6,7 +6,7 @@
 
 <!-- Tech Stack -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078F2&center=true&vCenter=true&width=300&lines=⚙️+Tech+Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078F2&center=true&vCenter=true&width=280&lines=⚙️+Tech+Stack" />
 </p>
 
 <p align="center">
