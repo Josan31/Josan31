@@ -6,9 +6,8 @@
 
 <!-- Tech Stack -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1500&color=0078F2&center=true&vCenter=true&width=600&lines=⚙️+Tech+Stack+-+Tools+I+use+for+coding+and+building+projects;Python%2C+GitHub%2C+VSCode%2C+HTML+and+more..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F28C28&center=true&vCenter=true&width=400&lines=⚙️+Tech+Stack" />
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -18,7 +17,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1500&color=F28C28&center=true&vCenter=true&width=600&lines=📊+GitHub+Stats+-+My+coding+activity+and+contributions;Check+out+my+progress+below+⬇️" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F28C28&center=true&vCenter=true&width=400&lines=📊+GitHub+Stats" />
 </p>
 
 <p align="center">
