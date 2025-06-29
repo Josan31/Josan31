@@ -6,7 +6,7 @@
 
 <!-- Tech Stack -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078F2&center=true&vCenter=true&width=400&lines=⚙️+Tech+Stack;Languages+and+tools" />
+  <img src="https://img.shields.io/badge/⚙️ Tech Stack-0078F2?style=for-the-badge" />
 </p>
 
 
