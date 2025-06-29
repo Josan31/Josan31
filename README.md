@@ -8,7 +8,7 @@
 
 <!-- Tech Stack -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Stack-%F0%9F%92%BB-blue?style=for-the-badge">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F28C28&center=true&vCenter=true&width=300&lines=⚙️+Tech+Stack" />
 </p>
 
 <p align="center">
