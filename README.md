@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Josan31&theme=transparent" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Josan31&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
