@@ -1,13 +1,8 @@
 #      Hi!, I'm José, a Software Developer: 
 I'm A Student From Colombia Learning Software Development With Python And Exploring The Tech World With Curiosity And Creativity.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=josan31&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Tech Stack -->
 <p align="center">
@@ -27,16 +22,17 @@ I'm A Student From Colombia Learning Software Development With Python And Explor
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josan31&show_icons=true&theme=orange" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Josan31&show_icons=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Josan31&theme=orange" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Josan31&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josan31&layout=compact&theme=orange" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josan31&layout=compact&theme=transparent" />
 </p>
+
 
 
 <picture>
