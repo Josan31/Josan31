@@ -49,6 +49,11 @@
 
 <br><br>
 
+<!-- Footer -->
+<p align="center" style="font-size: 14px; color: gray;">
+  🌀 Thank you for visiting my profile. Let's code something amazing! 🧠<br>
+  <i>Last updated: June 2025</i>
+</p>
 ---
 
 <!-- Snake Animation -->
