@@ -6,7 +6,7 @@
 
 <!-- Tech Stack -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F28C28&center=true&vCenter=true&width=300&lines=⚙️+Tech+Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078F2&center=true&vCenter=true&width=300&lines=⚙️+Tech+Stack" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=300&lines=📊+GitHub+Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F28C28&center=true&vCenter=true&width=300&lines=📊+GitHub+Stats" />
 </p>
 
 <p align="center">
@@ -33,12 +33,12 @@
 </p>
 
 
-<!-- 🔧 Badges (Tech Stack visual) -->
+<!-- 🔧 Badges (Tech Stack visual) >
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+</p>-->
 
 
 
