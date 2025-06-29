@@ -5,12 +5,9 @@
 
 ---
 
-<!-- ⚙️ Título animado: Tech Stack -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&speed=50&color=F28C28&center=true&vCenter=true&width=600&lines=⚙️+Tech+Stack" />
-</p>
+<!-- ⚙️ Título normal: Tech Stack -->
+<h3 align="center">⚙️ Tech Stack</h3>
 
-<!-- 🔧 Badges de herramientas -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -19,12 +16,9 @@
 
 ---
 
-<!-- 📊 Título animado: GitHub Stats -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&speed=50&color=FF5733&center=true&vCenter=true&width=600&lines=📊+GitHub+Stats" />
-</p>
+<!-- 📊 Título normal: GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
 
-<!-- 🧠 Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Josan31&show_icons=true&theme=transparent" />
 </p>
@@ -36,7 +30,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josan31&layout=compact&theme=transparent" />
 </p>
-
 ---
 
 <!--snake-->
