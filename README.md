@@ -49,11 +49,9 @@
 
 <br><br>
 
-<!-- Footer -->
-<p align="center" style="color:#00BFFF; font-size:14px;">
-  💻 <i>“First, solve the problem. Then, write the code.”</i><br>
+<p align="center">
+  <b><span style="color:#00BFFF">💻 “First, solve the problem. Then, write the code.”</span></b><br>
 </p>
-
 ---
 
 <!-- Snake Animation -->
