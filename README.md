@@ -3,11 +3,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=2000&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Jos%C3%A9;A+Software+Developer+In+Training;Learning+Python+%26+GitHub+every+day!" />
 </p>
 
+<br>
+
 ---
 
 <!-- Tech Stack -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2000&pause=9999999&color=F28C28&center=true&vCenter=true&width=400&lines=%E2%9A%99%EF%B8%8F+Tech+Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=9999999&color=F28C28&center=true&vCenter=true&width=400&lines=%E2%9A%99%EF%B8%8F+Tech+Stack" />
 </p>
 
 <br>
@@ -24,7 +26,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2000&pause=9999999&color=F28C28&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+GitHub+Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=9999999&color=F28C28&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+GitHub+Stats" />
 </p>
 
 <br>
