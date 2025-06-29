@@ -1,29 +1,26 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Jos%C3%A9;A+Software+Developer+In+Training;Learning+Python+%26+GitHub+every+day!" />
-</p>
-
----
-[![](https://visitcount.itsvg.in/api?id=josan31&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<!-- Presentación animada -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&speed=50&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Jos%C3%A9;A+Software+Developer+in+Training;Learning+Python+%26+GitHub+every+day!" />
 </p>
 
+---
+
 <!-- Tech Stack -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F28C28&center=true&vCenter=true&width=300&lines=%E2%9A%99%EF%B8%8F+Tech+Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F28C28&center=true&vCenter=true&width=300&lines=⚙️+Tech+Stack" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=300&lines=%F0%9F%93%8A+GitHub+Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=300&lines=📊+GitHub+Stats" />
 </p>
 
 <p align="center">
