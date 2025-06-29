@@ -6,7 +6,7 @@
 
 <!-- Tech Stack -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078F2&center=true&vCenter=true&width=280&lines=⚙️+Tech+Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0078F2&center=true&vCenter=true&width=700&lines=⚙️+Tech+Stack" />
 </p>
 
 <p align="center">
@@ -17,8 +17,9 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F28C28&center=true&vCenter=true&width=300&lines=📊+GitHub+Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F28C28&center=true&vCenter=true&width=700&lines=📊+GitHub+Stats" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Josan31&show_icons=true&theme=transparent" />
