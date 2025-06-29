@@ -35,8 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josan31&layout=compact&theme=transparent" />
 </p>
 
-<hr style="border: none; border-top: 2px solid #00BFFF; width: 80%; margin: 20px auto;" />
-
 <!-- Final -->
 
 <div align="center">
@@ -47,6 +45,8 @@
     <img src="https://img.shields.io/github/followers/Josan31?label=Followers&style=social" alt="GitHub Badge" align="center">
   <a/>
 </div>
+
+<hr style="border: none; border-top: 2px solid #00BFFF; width: 80%; margin: 20px auto;" />
 
 <!-- Snake Animation -->
 
