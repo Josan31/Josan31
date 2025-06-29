@@ -5,6 +5,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=josan31&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&speed=50&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Jos%C3%A9;A+Software+Developer+in+Training;Learning+Python+%26+GitHub+every+day!" />
+</p>
+
 <!-- Tech Stack -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F28C28&center=true&vCenter=true&width=300&lines=%E2%9A%99%EF%B8%8F+Tech+Stack" />
