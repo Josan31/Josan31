@@ -1,12 +1,13 @@
+<!-- Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Jos%C3%A9;A+Software+Developer+In+Training;Learning+Python+%26+GitHub+every+day!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Jos%C3%A9;A+Software+Developer+In+Training;Learning+Python+%26+GitHub+every+day!" />
 </p>
 
 ---
 
 <!-- Tech Stack -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F28C28&center=true&vCenter=true&width=400&lines=⚙️+Tech+Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F28C28&center=true&vCenter=true&width=400&lines=⚙️+Tech+Stack;" />
 </p>
 
 <p align="center">
@@ -17,7 +18,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F28C28&center=true&vCenter=true&width=400&lines=📊+GitHub+Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F28C28&center=true&vCenter=true&width=400&lines=📊+GitHub+Stats;" />
 </p>
 
 <p align="center">
