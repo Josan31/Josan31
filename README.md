@@ -6,8 +6,8 @@
 ---
 
 <!-- Tech Stack -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=10000&color=F28C28&center=true&vCenter=true&width=400&lines=%E2%9A%99%EF%B8%8F+Tech+Stack" />
+<p align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=10000&pause=9999999&color=F28C28&center=true&vCenter=true&width=400&lines=%E2%9A%99%EF%B8%8F+Tech+Stack" />
 </p>
 
 <p align="center">
