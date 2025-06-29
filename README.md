@@ -47,12 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josan31&layout=compact&theme=transparent" />
 </p>
 
-<br><br>
-
-<p align="center">
-  <b><span style="color:#00BFFF">💻 “First, solve the problem. Then, write the code.”</span></b><br>
-</p>
----
+<br>
 
 <!-- Snake Animation -->
 
