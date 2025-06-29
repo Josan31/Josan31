@@ -18,7 +18,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F28C28&center=true&vCenter=true&width=400&lines=📊+GitHub+Stats;My+contribution+history" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1500&color=F28C28&center=true&vCenter=true&width=600&lines=📊+GitHub+Stats+-+My+coding+activity+and+contributions;Check+out+my+progress+below+⬇️" />
 </p>
 
 <p align="center">
