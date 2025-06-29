@@ -5,9 +5,9 @@
 ---
 
 <!-- Tech Stack -->
-[<p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078F2&center=true&vCenter=true&width=480&lines=⚙️+Tech+Stack;Tools+I+use+every+day" />
-</p>]
+</p>
 
 
 <p align="center">
