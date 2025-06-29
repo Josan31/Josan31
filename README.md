@@ -16,7 +16,9 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<hr style="border: none; border-top: 2px solid #00BFFF; width: 80%; margin: 20px auto;" />
+<table><tr><td><br></td></tr></table>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<table><tr><td><br></td></tr></table>
 
 <!-- GitHub Stats -->
 <p align="center">
