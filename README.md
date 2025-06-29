@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0078F2&center=true&vCenter=true&width=435&lines=Hi!+I'm+José;A+Software+Developer+In+Training;Python+%7C+GitHub+%7C+Logic+Lover" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Hi!+I'm+Jos%C3%A9;A+Software+Developer+In+Training;Learning+Python+%26+GitHub+every+day!" />
 </p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=josan31&icon=0&color=0)](https://visitcount.itsvg.in)
