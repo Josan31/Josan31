@@ -33,7 +33,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josan31&layout=compact&theme=transparent" />
 </p>
 
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2000&pause=9999999&color=F28C28&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+GitHub+Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Josan31&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Josan31&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josan31&layout=compact&theme=transparent" />
+</p>
 <!--snake-->
 
 <picture>
