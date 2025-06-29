@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=2000&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Jos%C3%A9;A+Software+Developer+In+Training;Learning+Python+%26+GitHub+every+day!" />
 </p>
 
-<br>
-
 ---
 
 <!-- Tech Stack -->
