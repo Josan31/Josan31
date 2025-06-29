@@ -18,7 +18,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://img.shields.io/badge/📊 GitHub Stats-F28C28?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F28C28&center=true&vCenter=true&width=400&lines=📊+GitHub+Stats;My+contribution+history" />
 </p>
 
 <p align="center">
