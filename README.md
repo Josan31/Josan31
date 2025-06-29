@@ -5,9 +5,7 @@
 ---
 
 <!-- Tech Stack -->
-<p align="center">
-  <img src="https://img.shields.io/badge/⚙️ Tech Stack-0078F2?style=for-the-badge" />
-</p>
+<h2 align="center">🔵 ⚙️ Tech Stack</h2>
 
 
 <p align="center">
