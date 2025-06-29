@@ -50,10 +50,10 @@
 <br><br>
 
 <!-- Footer -->
-<p align="center" style="font-size: 14px; color: gray;">
-  🌀 Thank you for visiting my profile. Let's code something amazing! 🧠<br>
-  <i>Last updated: June 2025</i>
+<p align="center" style="color:#00BFFF; font-size:14px;">
+  💻 <i>“First, solve the problem. Then, write the code.”</i><br>
 </p>
+
 ---
 
 <!-- Snake Animation -->
