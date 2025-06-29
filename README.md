@@ -6,7 +6,7 @@
 
 <!-- Tech Stack -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0078F2&center=true&vCenter=true&width=500&lines=⚙️+Tech+Stack;Python%2C+GitHub%2C+HTML+%2B+more..." />
+  <img src="https://img.shields.io/badge/⚙️ Tech Stack-0078F2?style=for-the-badge&logo=appveyor&logoColor=white" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F28C28&center=true&vCenter=true&width=500&lines=📊+GitHub+Stats;Loading+contributions..." />
+  <img src="https://img.shields.io/badge/📊 GitHub Stats-F28C28?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
