@@ -7,7 +7,7 @@
 
 <!-- Tech Stack -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F28C28&center=true&vCenter=true&width=400&lines=⚙️+Tech+Stack;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F28C28&center=true&vCenter=true&width=400&lines=%E2%9A%99%EF%B8%8F+Tech+Stack" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F28C28&center=true&vCenter=true&width=400&lines=📊+GitHub+Stats;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F28C28&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+GitHub+Stats" />
 </p>
 
 <p align="center">
@@ -32,6 +32,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josan31&layout=compact&theme=transparent" />
 </p>
+
 
 
 <!--snake-->
