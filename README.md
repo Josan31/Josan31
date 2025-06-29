@@ -6,7 +6,7 @@
 
 <!-- Tech Stack -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078F2&center=true&vCenter=true&width=480&lines=⚙️+Tech+Stack;Tools+I+use+every+day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1500&color=0078F2&center=true&vCenter=true&width=600&lines=⚙️+Tech+Stack+-+Tools+I+use+for+coding+and+building+projects;Python%2C+GitHub%2C+VSCode%2C+HTML+and+more..." />
 </p>
 
 
