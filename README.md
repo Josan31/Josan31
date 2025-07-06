@@ -37,17 +37,6 @@
 
 <!-- Final -->
 
-<div align="center">
-  <a href="#">
-      <img src="https://komarev.com/ghpvc/?username=Josan31&label=Profile%20views&color=0e75b6&style=flat" alt="Josan31" align="center" /> 
-  <a/>
-  <a href="https://github.com/ramazancetinkaya?tab=followers">
-    <img src="https://img.shields.io/github/followers/Josan31?label=Followers&style=social" alt="GitHub Badge" align="center">
-  <a/>
-</div>
-
-<hr style="border: none; border-top: 2px solid #00BFFF; width: 80%; margin: 20px auto;" />
-
 <!-- Snake Animation -->
 
 <picture>
