@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=00ffee,00cc88&text=%3C%2F%3E%20Josan31%20System&fontColor=ffffff&fontSize=40&desc=Initializing...&descSize=20&descAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00E5FF,100:00FF7F&text=%3E%20JOSAN31&fontColor=ffffff&fontAlignY=40&desc=Python%20Developer%20%7C%20Flask%20%7C%20GitHub&descSize=20&descAlignY=65" />
 
 <hr style="border: none; border-top: 2px solid #00BFFF; width: 80%; margin: 20px auto;" />
 
@@ -16,8 +16,6 @@
 <hr style="border: none; border-top: 2px solid #00BFFF; width: 80%; margin: 20px auto;" />
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josan31" />
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2000&pause=9999999&color=F28C28&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+GitHub+Stats" />
