@@ -1,4 +1,4 @@
-
+<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:001f2b,50:00FF7F,100:00E5FF&text=%E2%9F%A8Josan31%E2%9F%A9&fontColor=ffffff&fontAlignY=40&desc=Python%20%7C%20HTML%20%7C%20CSS&descSize=20&descAlignY=65" />
 </p>
@@ -16,12 +16,6 @@
   &descSize=22
   &descAlignY=65" />
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:001f2b,50:00FF7F,100:00E5FF&text=%E2%9F%A8Josan31%E2%9F%A9&fontColor=ffffff&fontSize=60&stroke=00ffe2&strokeWidth=4&desc=Python%20%7C%20HTML%20%7C%20CSS&descSize=22" />
-</p>
-
-
 
 
 <hr style="border: none; border-top: 2px solid #00BFFF; width: 80%; margin: 20px auto;" />
