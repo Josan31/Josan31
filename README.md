@@ -2,8 +2,6 @@
 
 <hr style="border: none; border-top: 2px solid #00BFFF; width: 80%; margin: 20px auto;" />
 
-<hr style="border: none; border-top: 2px solid #00BFFF; width: 80%; margin: 20px auto;" />
-
 <!-- Tech Stack -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2000&pause=9999999&color=F28C28&center=true&vCenter=true&width=400&lines=%E2%9A%99%EF%B8%8F+Tech+Stack" />
@@ -18,6 +16,9 @@
 <hr style="border: none; border-top: 2px solid #00BFFF; width: 80%; margin: 20px auto;" />
 
 <!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSER" />
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2000&pause=9999999&color=F28C28&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+GitHub+Stats" />
 </p>
