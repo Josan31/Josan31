@@ -52,7 +52,3 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/Josan31/Josan31/output/github-snake.svg" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josan31/josan31/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josan31/josan31/output/github-snake.svg" />
-
