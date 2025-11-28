@@ -8,14 +8,15 @@
   &height=300
   &color=0:001f2b,50:00FF7F,100:00E5FF
   &text=%E2%9F%A8Josan31%E2%9F%A9
-  &fontColor=ffffff
-  &fontSize=60
-  &stroke=00eaff
-  &strokeWidth=2
+  &fontColor=000000
+  &fontSize=80
+  &stroke=00fff7
+  &strokeWidth=8
   &desc=Python%20%7C%20HTML%20%7C%20CSS
   &descSize=22
   &descAlignY=65" />
 </p>
+
 
 
 
