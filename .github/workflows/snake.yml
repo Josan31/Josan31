@@ -10,15 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo content
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: Josan31
-          color_snake: "#00FF7F"
-          color_dots: "#001f2b,#00E5FF,#ffffff"
+          config_file: .github/snake-config.json
           outputs: |
             output/github-snake.svg
             output/github-snake-dark.svg
