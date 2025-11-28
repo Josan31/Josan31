@@ -5,17 +5,17 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:001f2b,50:00FF7F,100:00E5FF&text=%3C%20Josan31%20%2F%3E&fontColor=ffffff&fontSize=60&desc=Python%20%7C%20HTML%20%7C%20CSS&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:001f2b,50:00FF7F,100:00E5FF&text=%3C%20Josan31%20%2F%3E&fontColor=ffffff&fontSize=60&desc=Python%20%7C%20HTML%20%7C%20CSS&descSize=20&descAlignY=65"
     style="
       filter: drop-shadow(0 0 10px #00eaff)
-              drop-shadow(0 0 20px #00eaff)
-              drop-shadow(0 0 40px #00ff9d)
-              drop-shadow(0 0 60px #00ff9d)
-              drop-shadow(0 0 80px #00ff9d);
-      border-radius: 12px;
+              drop-shadow(0 0 25px #00eaff)
+              drop-shadow(0 0 50px #00ff9d)
+              drop-shadow(0 0 80px #00ff9d)
+              drop-shadow(0 0 120px #00ff9d);
     "
   />
 </p>
+
 
 <hr style="border: none; border-top: 2px solid #00BFFF; width: 80%; margin: 20px auto;" />
 
