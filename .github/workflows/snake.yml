@@ -16,10 +16,14 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Josan31
-          config_file: .github/snake-config.json
           outputs: |
             output/github-snake.svg
             output/github-snake-dark.svg
+          palette: |
+            - "#001f2b" # fondo oscuro
+            - "#00E5FF" # cian
+            - "#00FF7F" # verde neon (snake)
+            - "#ffffff" # blanco
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
