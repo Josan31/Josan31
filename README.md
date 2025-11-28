@@ -42,14 +42,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josan31&layout=compact&bg_color=00000000&title_color=00E5FF&text_color=ffffff&border_color=00FF7F" />
 </p>
 
-
-
-
-
-
-
-
-
 <!-- Final -->
 
 <!-- Snake Animation -->
