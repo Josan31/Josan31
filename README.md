@@ -45,6 +45,12 @@
 
 <!-- Snake Animation -->
 
-![snake gif](https://github.com/Josan31/Josan31/blob/output/github-snake-dark.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Josan31/Josan31/raw/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Josan31/Josan31/raw/output/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://github.com/Josan31/Josan31/raw/output/github-snake.svg">
+  </picture>
+</p>
 
 
