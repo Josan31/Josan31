@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:001f2b,50:00FF7F,100:00E5FF&text=%E2%9F%A8Josan31%E2%9F%A9&fontColor=ffffff&fontAlignY=40&desc=Python%20%7C%20HTML%20%7C%20CSS&descSize=20&descAlignY=65" />
 </p>
 
-
 <!-- ✦ Section Divider -->
 <div align="center">
   <img src="https://img.shields.io/badge/-✦-001f2b?style=flat-square&logoColor=00e5ff&labelColor=001f2b&color=00e5ff" />
@@ -45,12 +44,6 @@
 <!-- Final -->
 
 <!-- Snake Animation -->
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://josan31.github.io/Josan31/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://josan31.github.io/Josan31/output/github-snake.svg" />
-    <img alt="github-snake" src="https://josan31.github.io/Josan31/output/github-snake.svg" />
-  </picture>
-</p>
-
+<div align="center">
+  ![snake gif](https://github.com/Josan31/Josan31/blob/output/github-snake-dark.svg)
+</div>
