@@ -12,6 +12,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Clean old snake files
+        run: |
+          rm -f output/github-snake.svg
+          rm -f output/github-snake-dark.svg
+          mkdir -p output
+
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
