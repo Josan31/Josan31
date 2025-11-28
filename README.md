@@ -3,6 +3,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:001f2b,50:00FF7F,100:00E5FF&text=%E2%9F%A8Josan31%E2%9F%A9&fontColor=ffffff&fontAlignY=40&desc=Python%20%7C%20HTML%20%7C%20CSS&descSize=20&descAlignY=65" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving
+  &height=300
+  &color=0:001f2b,50:00FF7F,100:00E5FF
+  &text=%E2%80%B9Josan31%20%E2%88%95%E2%80%BA
+  &fontColor=ffffff
+  &stroke=00FFEA
+  &strokeWidth=2
+  &fontAlignY=40
+  &desc=Python%20%7C%20HTML%20%7C%20CSS
+  &descSize=20
+  &descAlignY=65" />
+</p>
+
 
 
 <hr style="border: none; border-top: 2px solid #00BFFF; width: 80%; margin: 20px auto;" />
