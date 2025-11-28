@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=00ffee&text=%3C%2F%3E%20Josan31%20System&fontColor=ffffff&fontSize=40&desc=Initializing...&descSize=20&descAlignY=65" />
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=00ffee,00cc88&text=%3C%2F%3E%20Josan31%20System&fontColor=ffffff&fontSize=40&desc=Initializing...&descSize=20&descAlignY=65" />
 
 <hr style="border: none; border-top: 2px solid #00BFFF; width: 80%; margin: 20px auto;" />
 
