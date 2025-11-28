@@ -1,1 +1,6 @@
 
+{
+  "color_snake": "#00FF7F",
+  "color_dots": ["#001f2b", "#00E5FF", "#ffffff"],
+  "color_bg": "#00000000"
+}
