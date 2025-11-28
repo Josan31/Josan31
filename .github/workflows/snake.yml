@@ -26,15 +26,15 @@ jobs:
             output/github-snake.svg
             output/github-snake-dark.svg
           palette: |
-            "#ffffff"   # fondo claro
-            "#001f2b"   # fondo oscuro
-            "#00FF7F"   # snake verde neón
-            "#00E5FF"   # texto / detalles
+            "#ffffff"
+            "#001f2b"
+            "#00FF7F"
+            "#00E5FF"
           dark_palette: |
-            "#001f2b"   # fondo oscuro
-            "#ffffff"   # fondo claro
-            "#00FF7F"   # snake verde neón
-            "#00E5FF"   # texto / detalles
+            "#001f2b"
+            "#ffffff"
+            "#00FF7F"
+            "#00E5FF"
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
