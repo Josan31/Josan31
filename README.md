@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00E5FF,100:00FF7F&text=%3E%20JOSAN31&fontColor=ffffff&fontAlignY=40&desc=Python%20Developer%20%7C%20Flask%20%7C%20GitHub&descSize=20&descAlignY=65" />
+
+
 <hr style="border: none; border-top: 2px solid #00BFFF; width: 80%; margin: 20px auto;" />
 
 <!-- Tech Stack -->
