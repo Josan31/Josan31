@@ -16,7 +16,7 @@
 <hr style="border: none; border-top: 2px solid #00BFFF; width: 80%; margin: 20px auto;" />
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSER" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josan31" />
 
 
 <p align="center">
