@@ -17,6 +17,10 @@
   &descAlignY=65" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:001f2b,50:00FF7F,100:00E5FF&text=%3C%20Josan31%20%2F%3E&fontColor=ffffff&fontSize=60&desc=Python%20%7C%20HTML%20%7C%20CSS&descSize=20" />
+</p>
+
 
 
 <hr style="border: none; border-top: 2px solid #00BFFF; width: 80%; margin: 20px auto;" />
