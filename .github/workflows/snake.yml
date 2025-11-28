@@ -70,8 +70,6 @@ jobs:
 
             dist/github-snake-dark.svg?color_snake=#00E5FF&color_dots=#00FF7F,#00FF7F&color_empty=#1a2a3a
 
-            dist/ocean.gif?color_snake=#00E5FF&color_dots=#00FF7F,#00FF7F&color_empty=#e0f7ff
-
         env:
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
