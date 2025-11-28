@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00E5FF,100:00FF7F&text=%3E%20JOSAN31&fontColor=ffffff&fontAlignY=40&desc=Python%20Developer%20%7C%20Flask%20%7C%20GitHub&descSize=20&descAlignY=65" />
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:001f2b,50:00FF7F,100:00E5FF&text=COGITO%20ERGO%20CODE&fontColor=ffffff&fontAlignY=40&desc=Python%20%7C%20Flask%20%7C%20ML&descSize=20&descAlignY=65" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00E5FF,100:002b36&text=Josan31&fontAlignY=40&fontColor=ffffff&desc=Backend%20Developer%20%7C%20Python%20%7C%20Flask&descSize=22&descAlignY=65" />
